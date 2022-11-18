@@ -1,0 +1,17 @@
+.actuali{
+    margin-top: 40px;
+}
+.info{
+    display: flex;
+}
+.infoletra{
+    font-size: 23px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.imagenact{
+    height: 415px;
+    width: 700px;
+    padding-left: 4px;
+    padding-right: 6px;
+    border-radius: 20px;
+}

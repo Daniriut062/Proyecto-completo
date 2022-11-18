@@ -57,7 +57,7 @@ a {
 
 i {
     font-style: none;
-    color: black;
+    color: rgb(255, 0, 0);
     font-size: 25px;
 }
 
@@ -124,22 +124,22 @@ h1{
 }
 
 .modos{
-    padding-bottom: 30px;
+    padding-bottom: 40px;
 }
 .supervivencia{
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 .creativo{
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 .aventura{
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 .extremo{
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 .espectador{
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 .juga{
     font-size: 40px;
@@ -147,4 +147,10 @@ h1{
 .parrafos{
     font-size: 30px;
     font-family: 'Roboto Condensed', sans-serif;
+}
+.imagenes2{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    margin-left: 600px;
 }
