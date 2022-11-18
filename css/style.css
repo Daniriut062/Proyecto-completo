@@ -22,7 +22,7 @@ header{
    
 }
 .nav.active{
-    background-color: rgb(180, 180, 180);
+    background-color: rgb(214, 202, 133);
 }
 .nav.active .logo{
     color: rgb(44, 131, 44);
@@ -31,7 +31,7 @@ header{
     color: black;
 }
 .nav.active a:hover{
-    background-color: rgb(127, 126, 126);
+    background-color: rgb(234, 220, 140);
 }
 .logo{
     padding-left: 20px;
@@ -58,7 +58,7 @@ header{
 }
 .menu li a:hover{
     padding: 5px 10px;
-    background:rgb(179, 210, 116);
+    background:rgb(255, 247, 142);
     border-radius: 15px;
 
 }

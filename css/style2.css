@@ -88,8 +88,8 @@ i {
 }
 
 body{
-    background-image: url(/imagenes/birch.png);
-    background-size: 90px;
+    background-image: url(/imagenes/endtsotne.png);
+    background-size: 200px;
 }
 
 .Parrafo1{
@@ -113,9 +113,14 @@ body{
 
 h2{
     font-size: 35px;
+    color: rgb(218, 0, 0);
 }
 h3{
     font-size: 28px;
+    color: rgb(218, 0, 0);
+}
+h1{
+    color: rgb(81, 81, 81);
 }
 
 .modos{
@@ -140,5 +145,6 @@ h3{
     font-size: 40px;
 }
 .parrafos{
-    font-size: 20px;
+    font-size: 30px;
+    font-family: 'Roboto Condensed', sans-serif;
 }
