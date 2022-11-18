@@ -1,0 +1,114 @@
+#contentItemsCarrusel {
+    height: 400px;
+    overflow: hidden;
+    width: 1000px;
+    padding-left: 10px;
+    margin-left: 30px;
+    z-index: -1;
+    position: relative;
+}
+
+.itemCarrusel {
+    height: 100%;
+    position:relative;
+}
+
+.tarjetaCarrusel {
+    width: 100%;
+    height: 100%;
+}
+
+.flechasCarrusel {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+#tarjetaCarrusel-1 {
+    background-color: rgb(184, 121, 121);
+
+}
+
+#tarjetaCarrusel-2 {
+    background-color: rgb(193, 173, 131);
+}
+
+#tarjetaCarrusel-3 {
+    background-color: rgb(142, 203, 140);
+}
+
+a {
+    text-decoration: none;
+
+}
+
+
+
+#contentPuntos>a {
+    font-size: 1.5em;
+    font-style: none;
+    color: green;
+
+}
+
+i {
+    font-style: none;
+    color: black;
+    font-size: 25px;
+}
+
+.imagenCarru {
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.block {
+    width: 400px;
+    height: 400px;
+    padding-left: 15px;
+    padding-bottom: 40px;
+}
+
+.carrusel1 {
+    display: flex;
+    padding-top: 10px;
+
+}
+
+.titulo {
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+}
+
+body{
+    background-image: url(/imagenes/birch.png);
+    background-size: 90px;
+}
+
+.Parrafo1{
+    display: flex;
+    font-size: 30px;
+    font-family: 'Acme', sans-serif;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.notch{
+    height: 310px;
+    width: 300px;
+    float: right;
+    border: 3px solid black;
+    display: flex;
+}
+
+.MCinfo{
+    padding-right: 30px;
+}
+
