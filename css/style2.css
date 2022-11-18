@@ -4,7 +4,6 @@
     width: 1000px;
     padding-left: 10px;
     margin-left: 30px;
-    z-index: -1;
     position: relative;
 }
 
@@ -112,3 +111,34 @@ body{
     padding-right: 30px;
 }
 
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 28px;
+}
+
+.modos{
+    padding-bottom: 30px;
+}
+.supervivencia{
+    padding-bottom: 20px;
+}
+.creativo{
+    padding-bottom: 20px;
+}
+.aventura{
+    padding-bottom: 20px;
+}
+.extremo{
+    padding-bottom: 20px;
+}
+.espectador{
+    padding-bottom: 20px;
+}
+.juga{
+    font-size: 40px;
+}
+.parrafos{
+    font-size: 20px;
+}
